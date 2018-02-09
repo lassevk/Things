@@ -9,7 +9,8 @@ namespace Things
 
         UseCSharpKeywords = 1,
         IncludeNamespace = 2,
+        UseNullableOperator = 4,
         
-        Default = UseCSharpKeywords | IncludeNamespace
+        Default = UseCSharpKeywords | IncludeNamespace | UseNullableOperator
     }
 }
