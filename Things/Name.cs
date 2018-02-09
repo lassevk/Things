@@ -24,7 +24,7 @@ namespace Things
                                                                                [typeof(char)] = "char",
                                                                                [typeof(double)] = "double",
                                                                                [typeof(float)] = "float",
-                                                                               [typeof(object)] ="object",
+                                                                               [typeof(object)] = "object",
                                                                            };
 
         [NotNull]
