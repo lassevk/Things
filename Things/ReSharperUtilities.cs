@@ -3,6 +3,7 @@ using System.Diagnostics;
 
 using JetBrains.Annotations;
 
+// ReSharper disable UnusedParameter.Global
 // ReSharper disable InconsistentNaming
 
 namespace Things
